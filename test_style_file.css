@@ -1,0 +1,27 @@
+body{
+  background-color: lightgrey;
+}
+h2{
+  font-size: 20px;
+  color: hotpink;
+}
+h3{
+  font-size: 14px;
+  color: teal;
+}
+.big{
+  font-size: 17px;
+}
+.uppercase{
+  text-transform: uppercase;
+  background-color: hotpink;
+}
+.big.uppercase{
+  color:orange;
+}
+span{
+  color:green;
+}
+h1 span{
+  color:red;
+}
