@@ -1,0 +1,59 @@
+body{
+  margin:0;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+}
+header{
+  background-color: skyblue;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+header h1{
+  color:white;
+  font-size: 50px;
+}
+h1, h2{
+  font-family: 'Nothing You Could Do', cursive;
+}
+header img{
+  border-radius: 250px;
+  border:10px solid white;
+}
+
+main{
+  max-width:800px;
+  margin:0 auto;
+  padding: 20px;
+
+}
+main img{
+  max-width: 100%;
+}
+h2{
+  font-size: 35px;
+  color: skyblue;
+  margin: 40px 0 10px;
+}
+a{
+  color:skyblue;
+}
+a:hover{
+  color:white;
+  background-color: skyblue;
+}
+footer{
+  background-color: skyblue;
+  text-align: center;
+  color:white;
+  padding:50px;
+}
+footer p{
+  margin:0;
+}
+p.caption{
+  color:lightgrey;
+  font-style;italic;
+  margin-top:0;
+}
